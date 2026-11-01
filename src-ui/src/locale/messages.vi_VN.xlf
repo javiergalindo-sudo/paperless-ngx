@@ -1537,7 +1537,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">239,240</context>
+          <context context-type="linenumber">240,241</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
@@ -1891,7 +1891,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">248,249</context>
+          <context context-type="linenumber">249,250</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/filter-editor/filter-editor.component.html</context>
@@ -1927,7 +1927,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">257,258</context>
+          <context context-type="linenumber">258,259</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/filter-editor/filter-editor.component.html</context>
@@ -1971,7 +1971,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">221,222</context>
+          <context context-type="linenumber">222,223</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/filter-editor/filter-editor.component.html</context>
@@ -2475,7 +2475,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">266,267</context>
+          <context context-type="linenumber">267,268</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/share-links/share-link-bundle-list/share-link-bundle-list.component.html</context>
@@ -4475,7 +4475,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">388</context>
+          <context context-type="linenumber">391</context>
         </context-group>
         <target state="final">Đúng</target>
       </trans-unit>
@@ -4779,7 +4779,7 @@
         <source>Create new field</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/custom-fields-dropdown/custom-fields-dropdown.component.html</context>
-          <context context-type="linenumber">20</context>
+          <context context-type="linenumber">19</context>
         </context-group>
         <target state="final">Tạo trường mới</target>
       </trans-unit>
@@ -5217,7 +5217,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">275,276</context>
+          <context context-type="linenumber">276,277</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
@@ -7265,7 +7265,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">218,219</context>
+          <context context-type="linenumber">219,220</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/filter-editor/filter-editor.component.ts</context>
@@ -9303,7 +9303,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">320</context>
+          <context context-type="linenumber">321</context>
         </context-group>
         <target state="final">Lọc theo đối tác</target>
       </trans-unit>
@@ -9319,7 +9319,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">360</context>
+          <context context-type="linenumber">363</context>
         </context-group>
         <target state="final">Lọc theo loại tài liệu</target>
       </trans-unit>
@@ -9335,7 +9335,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">367</context>
+          <context context-type="linenumber">370</context>
         </context-group>
         <target state="final">Lọc theo đường dẫn lưu trữ</target>
       </trans-unit>
@@ -9355,7 +9355,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">388</context>
+          <context context-type="linenumber">391</context>
         </context-group>
         <target state="final">KHÔNG</target>
       </trans-unit>
@@ -10997,7 +10997,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">336</context>
+          <context context-type="linenumber">339</context>
         </context-group>
         <target state="final">Lọc theo nhãn</target>
       </trans-unit>
@@ -11343,7 +11343,7 @@
         <source>Sort by title</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">213</context>
+          <context context-type="linenumber">214</context>
         </context-group>
         <target state="final">Sắp xếp theo tiêu đề</target>
       </trans-unit>
@@ -11351,7 +11351,7 @@
         <source>Sort by owner</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">226</context>
+          <context context-type="linenumber">227</context>
         </context-group>
         <target state="final">Sắp xếp theo chủ sở hữu</target>
       </trans-unit>
@@ -11359,7 +11359,7 @@
         <source>Owner</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">230,231</context>
+          <context context-type="linenumber">231,232</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
@@ -11375,7 +11375,7 @@
         <source>Sort by notes</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">235</context>
+          <context context-type="linenumber">236</context>
         </context-group>
         <target state="final">Sắp xếp theo ghi chú</target>
       </trans-unit>
@@ -11383,7 +11383,7 @@
         <source>Sort by document type</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">244</context>
+          <context context-type="linenumber">245</context>
         </context-group>
         <target state="final">Sắp xếp theo loại tài liệu</target>
       </trans-unit>
@@ -11391,7 +11391,7 @@
         <source>Sort by storage path</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">253</context>
+          <context context-type="linenumber">254</context>
         </context-group>
         <target state="final">Sắp xếp theo đường dẫn lưu trữ</target>
       </trans-unit>
@@ -11399,7 +11399,7 @@
         <source>Sort by created date</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">262</context>
+          <context context-type="linenumber">263</context>
         </context-group>
         <target state="final">Sắp xếp theo ngày được tạo</target>
       </trans-unit>
@@ -11407,7 +11407,7 @@
         <source>Sort by added date</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">271</context>
+          <context context-type="linenumber">272</context>
         </context-group>
         <target state="final">Sắp xếp theo ngày thêm</target>
       </trans-unit>
@@ -11415,7 +11415,7 @@
         <source>Sort by number of pages</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">280</context>
+          <context context-type="linenumber">281</context>
         </context-group>
         <target state="final">Sắp xếp theo số trang</target>
       </trans-unit>
@@ -11423,7 +11423,7 @@
         <source>Pages</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">284,285</context>
+          <context context-type="linenumber">285,286</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/data/document.ts</context>
@@ -11443,7 +11443,7 @@
         <source> Shared </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">288</context>
+          <context context-type="linenumber">289</context>
         </context-group>
         <target state="final">
      Chia sẻ
@@ -11453,7 +11453,7 @@
         <source>Sort by <x id="INTERPOLATION" equiv-text="{{getDisplayCustomFieldTitle(field_id)}}"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">294,295</context>
+          <context context-type="linenumber">295,296</context>
         </context-group>
         <target state="final">
      Sắp xếp theo
@@ -11463,7 +11463,7 @@
         <source>Preview document</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">328</context>
+          <context context-type="linenumber">327</context>
         </context-group>
         <target state="final">Xem trước tài liệu</target>
       </trans-unit>
@@ -11471,7 +11471,7 @@
         <source>Edit document</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/document-list/document-list.component.html</context>
-          <context context-type="linenumber">331</context>
+          <context context-type="linenumber">335</context>
         </context-group>
         <target state="final">Chỉnh sửa tài liệu</target>
       </trans-unit>
