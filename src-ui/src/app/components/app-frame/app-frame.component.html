@@ -362,7 +362,7 @@
                 </a>
               </li>
             }
-            <li class="nav-item mt-2 position-relative" [class.d-none]="settingsService.sidebarItemIsHidden(HideableSidebarItemID.Documentation) && !settingsService.organizingSidebarItems()" tourAnchor="tour.outro">
+            <!-- <li class="nav-item mt-2 position-relative" [class.d-none]="settingsService.sidebarItemIsHidden(HideableSidebarItemID.Documentation) && !settingsService.organizingSidebarItems()" tourAnchor="tour.outro">
               <a class="text-muted small d-flex align-items-center flex-wrap text-decoration-none nav-anchor" [class.opacity-50]="settingsService.sidebarItemIsHidden(HideableSidebarItemID.Documentation)" [class.pe-5]="settingsService.organizingSidebarItems() && !slimSidebarEnabled && !slimSidebarAnimating()"
                 target="_blank" rel="noopener noreferrer" href="https://docs.paperless-ngx.com" ngbPopover="Documentation"
                 i18n-ngbPopover [disablePopover]="!slimSidebarPopoversEnabled" placement="end" container="body"
@@ -373,7 +373,7 @@
                 <pngx-input-switch class="position-absolute top-50 end-0 translate-middle-y me-1" [class.d-none]="slimSidebarEnabled || slimSidebarAnimating()" [compact]="true" title="Documentation" i18n-title [ngModel]="!settingsService.sidebarItemIsHidden(HideableSidebarItemID.Documentation)" (ngModelChange)="toggleSidebarItem(HideableSidebarItemID.Documentation, $event)"></pngx-input-switch>
               }
             </li>
-            <!-- <li class="nav-item" [class.visually-hidden]="slimSidebarEnabled">
+            <li class="nav-item" [class.visually-hidden]="slimSidebarEnabled">
               <div class="text-muted small d-flex align-items-center flex-wrap nav-label">
                 <div class="me-2">
                   <a class="text-muted text-decoration-none" target="_blank" rel="noopener noreferrer"
