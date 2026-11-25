@@ -237,7 +237,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="3527354815023530656" datatype="html">
-        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Paperless-ngx.</source>
+        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Lirion Docs.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">78</context>
@@ -390,7 +390,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="9075755296812854717" datatype="html">
-        <source>Drag-and-drop documents here to start uploading or place them in the consume folder. You can also drag-and-drop documents anywhere on all other pages of the web app. Once you do, Paperless-ngx will start training its machine learning algorithms.</source>
+        <source>Drag-and-drop documents here to start uploading or place them in the consume folder. You can also drag-and-drop documents anywhere on all other pages of the web app. Once you do, Lirion Docs will start training its machine learning algorithms.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">147</context>
@@ -471,7 +471,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4270528545616947218" datatype="html">
-        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Paperless-ngx!</source>
+        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Lirion Docs!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">214</context>
@@ -485,7 +485,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="8528041182664173532" datatype="html">
-        <source>Global app configuration options which apply to &lt;strong&gt;every&lt;/strong&gt; user of this install of Paperless-ngx. Options can also be set using environment variables or the configuration file but the value here will always take precedence.</source>
+        <source>Global app configuration options which apply to &lt;strong&gt;every&lt;/strong&gt; user of this install of Lirion Docs. Options can also be set using environment variables or the configuration file but the value here will always take precedence.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/admin/config/config.component.html</context>
           <context context-type="linenumber">4,5</context>
@@ -1253,7 +1253,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="7019985100624067992" datatype="html">
-        <source>Only applies to the Paperless-ngx PDF viewer.</source>
+        <source>Only applies to the Lirion Docs PDF viewer.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/admin/settings/settings.component.html</context>
           <context context-type="linenumber">246,247</context>
@@ -3493,7 +3493,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="7931334600001636863" datatype="html">
-        <source>by Paperless-ngx</source>
+        <source>by Lirion Docs</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/app-frame/app-frame.component.html</context>
           <context context-type="linenumber">24,25</context>
@@ -3729,7 +3729,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="9811291095862612" datatype="html">
-        <source>Paperless-ngx can automatically check for updates</source>
+        <source>Lirion Docs can automatically check for updates</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/app-frame/app-frame.component.html</context>
           <context context-type="linenumber">393</context>
@@ -8054,7 +8054,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="5973078531069712831" datatype="html">
-        <source>Paperless-ngx Version</source>
+        <source>Lirion Docs Version</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/system-status-dialog/system-status-dialog.component.html</context>
           <context context-type="linenumber">22,23</context>
@@ -8539,7 +8539,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="7915903586014997661" datatype="html">
-        <source>Paperless-ngx is running!</source>
+        <source>Lirion Docs is running!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/dashboard/widgets/welcome-widget/welcome-widget.component.html</context>
           <context context-type="linenumber">6</context>
@@ -8553,14 +8553,14 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4474647174688421179" datatype="html">
-        <source>More detail on how to use and configure Paperless-ngx is always available in the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.paperless-ngx.com&quot; target=&quot;_blank&quot;&gt;"/>documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
+        <source>More detail on how to use and configure Lirion Docs is always available in the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.paperless-ngx.com&quot; target=&quot;_blank&quot;&gt;"/>documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/dashboard/widgets/welcome-widget/welcome-widget.component.html</context>
           <context context-type="linenumber">9,10</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4294899532887357745" datatype="html">
-        <source>Thanks for being a part of the Paperless-ngx community!</source>
+        <source>Thanks for being a part of the Lirion Docs community!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/dashboard/widgets/welcome-widget/welcome-widget.component.html</context>
           <context context-type="linenumber">13,14</context>
@@ -11727,7 +11727,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="1229748338333965418" datatype="html">
-        <source>Use workflows to customize the behavior of Paperless-ngx when events &apos;trigger&apos; a workflow.</source>
+        <source>Use workflows to customize the behavior of Lirion Docs when events &apos;trigger&apos; a workflow.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.html</context>
           <context context-type="linenumber">4,5</context>

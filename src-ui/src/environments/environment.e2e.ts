@@ -1,4 +1,4 @@
-export const DEFAULT_APP_TITLE = 'Paperless-ngx'
+export const DEFAULT_APP_TITLE = 'Lirion Docs'
 
 export const environment = {
   production: false,
