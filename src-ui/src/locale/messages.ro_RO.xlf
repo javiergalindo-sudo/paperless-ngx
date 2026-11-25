@@ -270,7 +270,7 @@
         <target state="needs-review-translation" state-qualifier="leveraged-tm">Închide</target>
       </trans-unit>
       <trans-unit id="3527354815023530656" datatype="html">
-        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Paperless-ngx.</source>
+        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Lirion Docs.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">78</context>
@@ -430,7 +430,7 @@
         <target state="translated">Tabloul de bord poate fi folosit pentru a afișa vizualizările salvate, cum ar fi un 'Inbox'. Vizualizările sunt găsite sub Gestionare &gt; Vizualizări salvate după ce aţi creat unele.</target>
       </trans-unit>
       <trans-unit id="9075755296812854717" datatype="html">
-        <source>Drag-and-drop documents here to start uploading or place them in the consume folder. You can also drag-and-drop documents anywhere on all other pages of the web app. Once you do, Paperless-ngx will start training its machine learning algorithms.</source>
+        <source>Drag-and-drop documents here to start uploading or place them in the consume folder. You can also drag-and-drop documents anywhere on all other pages of the web app. Once you do, Lirion Docs will start training its machine learning algorithms.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">147</context>
@@ -522,12 +522,12 @@
         <target state="translated">Există &lt;em&gt;o mulțime&lt;/em&gt;de funcții și informații pe care nu le-am acoperit aici, dar acestea ar trebui să te ajute să începi. Consultă documentația sau vizitează proiectul pe GitHub pentru a afla mai multe sau pentru a raporta probleme.</target>
       </trans-unit>
       <trans-unit id="4270528545616947218" datatype="html">
-        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Paperless-ngx!</source>
+        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Lirion Docs!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">214</context>
         </context-group>
-        <target state="translated">În cele din urmă, în numele fiecărui colaborator la acest proiect sprijinit de comunitate, vă mulţumim pentru că ați folosit Paperless-ngx!</target>
+        <target state="translated">În cele din urmă, în numele fiecărui colaborator la acest proiect sprijinit de comunitate, vă mulţumim pentru că ați folosit Lirion Docs!</target>
       </trans-unit>
       <trans-unit id="9063918187161876141" datatype="html">
         <source>Application Configuration</source>
@@ -538,12 +538,12 @@
         <target state="translated">Configurarea aplicației</target>
       </trans-unit>
       <trans-unit id="8528041182664173532" datatype="html">
-        <source>Global app configuration options which apply to &lt;strong&gt;every&lt;/strong&gt; user of this install of Paperless-ngx. Options can also be set using environment variables or the configuration file but the value here will always take precedence.</source>
+        <source>Global app configuration options which apply to &lt;strong&gt;every&lt;/strong&gt; user of this install of Lirion Docs. Options can also be set using environment variables or the configuration file but the value here will always take precedence.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/admin/config/config.component.html</context>
           <context context-type="linenumber">4,5</context>
         </context-group>
-        <target state="translated">Opțiuni globale de configurare a aplicației care se aplică &lt;strong&gt;fiecărui&lt;/strong&gt; utilizator al acestei instalări Paperless-ngx. Opțiunile pot fi, de asemenea, setate folosind variabile de mediu sau fișierul de configurare, dar valoarea aici va avea întotdeauna prioritate.</target>
+        <target state="translated">Opțiuni globale de configurare a aplicației care se aplică &lt;strong&gt;fiecărui&lt;/strong&gt; utilizator al acestei instalări Lirion Docs. Opțiunile pot fi, de asemenea, setate folosind variabile de mediu sau fișierul de configurare, dar valoarea aici va avea întotdeauna prioritate.</target>
       </trans-unit>
       <trans-unit id="7991430199894172363" datatype="html">
         <source>Read the documentation about this setting</source>
@@ -1370,7 +1370,7 @@
         <target state="translated">Ajustează la pagină</target>
       </trans-unit>
       <trans-unit id="7019985100624067992" datatype="html">
-        <source>Only applies to the Paperless-ngx PDF viewer.</source>
+        <source>Only applies to the Lirion Docs PDF viewer.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/admin/settings/settings.component.html</context>
           <context context-type="linenumber">246,247</context>
@@ -3770,12 +3770,12 @@
         <target state="translated">Eroare la ștergerea grupului "<x id="PH" equiv-text="group.name"/>".</target>
       </trans-unit>
       <trans-unit id="7931334600001636863" datatype="html">
-        <source>by Paperless-ngx</source>
+        <source>by Lirion Docs</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/app-frame/app-frame.component.html</context>
           <context context-type="linenumber">24,25</context>
         </context-group>
-        <target state="translated">de Paperless-ngx</target>
+        <target state="translated">de Lirion Docs</target>
       </trans-unit>
       <trans-unit id="3402055842664792382" datatype="html">
         <source>Upload documents</source>
@@ -4030,7 +4030,7 @@
         <target state="translated">Click pentru a vizualiza.</target>
       </trans-unit>
       <trans-unit id="9811291095862612" datatype="html">
-        <source>Paperless-ngx can automatically check for updates</source>
+        <source>Lirion Docs can automatically check for updates</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/app-frame/app-frame.component.html</context>
           <context context-type="linenumber">393</context>
@@ -8856,12 +8856,12 @@
         <target state="translated">Mediu</target>
       </trans-unit>
       <trans-unit id="5973078531069712831" datatype="html">
-        <source>Paperless-ngx Version</source>
+        <source>Lirion Docs Version</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/system-status-dialog/system-status-dialog.component.html</context>
           <context context-type="linenumber">22,23</context>
         </context-group>
-        <target state="translated">Versiune Paperless-ngx</target>
+        <target state="translated">Versiune Lirion Docs</target>
       </trans-unit>
       <trans-unit id="4147180396067913855" datatype="html">
         <source>View version mismatch details</source>
@@ -9402,7 +9402,7 @@
         <target state="translated">sau plasează fișierele oriunde</target>
       </trans-unit>
       <trans-unit id="7915903586014997661" datatype="html">
-        <source>Paperless-ngx is running!</source>
+        <source>Lirion Docs is running!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/dashboard/widgets/welcome-widget/welcome-widget.component.html</context>
           <context context-type="linenumber">6</context>
@@ -9418,15 +9418,15 @@
         <target state="translated">Ești gata să începi încărcarea documentelor! Explorează diferitele caracteristici ale acestei aplicații web pe cont propriu sau începe un tur rapid utilizând butonul de mai jos.</target>
       </trans-unit>
       <trans-unit id="4474647174688421179" datatype="html">
-        <source>More detail on how to use and configure Paperless-ngx is always available in the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.paperless-ngx.com&quot; target=&quot;_blank&quot;&gt;"/>documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
+        <source>More detail on how to use and configure Lirion Docs is always available in the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.paperless-ngx.com&quot; target=&quot;_blank&quot;&gt;"/>documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/dashboard/widgets/welcome-widget/welcome-widget.component.html</context>
           <context context-type="linenumber">9,10</context>
         </context-group>
-        <target state="translated">Mai multe detalii despre cum să folosești și să configurezi Paperless-ngx sunt întotdeauna disponibile în <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.paperless-ngx.com&quot; target=&quot;_blank&quot;&gt;"/>documentație<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</target>
+        <target state="translated">Mai multe detalii despre cum să folosești și să configurezi Lirion Docs sunt întotdeauna disponibile în <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.paperless-ngx.com&quot; target=&quot;_blank&quot;&gt;"/>documentație<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</target>
       </trans-unit>
       <trans-unit id="4294899532887357745" datatype="html">
-        <source>Thanks for being a part of the Paperless-ngx community!</source>
+        <source>Thanks for being a part of the Lirion Docs community!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/dashboard/widgets/welcome-widget/welcome-widget.component.html</context>
           <context context-type="linenumber">13,14</context>
@@ -12957,12 +12957,12 @@
         <target state="needs-translation">Bundles</target>
       </trans-unit>
       <trans-unit id="1229748338333965418" datatype="html">
-        <source>Use workflows to customize the behavior of Paperless-ngx when events &apos;trigger&apos; a workflow.</source>
+        <source>Use workflows to customize the behavior of Lirion Docs when events &apos;trigger&apos; a workflow.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/manage/workflows/workflows.component.html</context>
           <context context-type="linenumber">4,5</context>
         </context-group>
-        <target state="translated">Folosește fluxuri de lucru pentru a personaliza comportamentul Paperless-ngx atunci când evenimentele „declanșează” un flux de lucru.</target>
+        <target state="translated">Folosește fluxuri de lucru pentru a personaliza comportamentul Lirion Docs atunci când evenimentele „declanșează” un flux de lucru.</target>
       </trans-unit>
       <trans-unit id="2437630016855517844" datatype="html">
         <source>Add Workflow</source>
