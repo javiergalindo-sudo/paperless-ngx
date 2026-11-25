@@ -1686,8 +1686,8 @@ msgid "Documents not found: %(ids)s"
 msgstr "Documentos no encontrados: %(ids)s"
 
 #: documents/templates/account/account_inactive.html:5
-msgid "Paperless-ngx account inactive"
-msgstr "Cuenta de Paperless-ngx inactiva"
+msgid "Lirion Docs account inactive"
+msgstr "Cuenta de Lirion Docs inactiva"
 
 #: documents/templates/account/account_inactive.html:9
 msgid "Account inactive."
@@ -1714,8 +1714,8 @@ msgstr "Gracias por utilizar %(site_name)s!\n"
 "%(site_domain)s"
 
 #: documents/templates/account/login.html:5
-msgid "Paperless-ngx sign in"
-msgstr "Paperless-ngx inicio de sesión"
+msgid "Lirion Docs sign in"
+msgstr "Lirion Docs inicio de sesión"
 
 #: documents/templates/account/login.html:10
 msgid "Please sign in."
@@ -1758,8 +1758,8 @@ msgid "or sign in via"
 msgstr "o inicie sesión vía"
 
 #: documents/templates/account/password_reset.html:5
-msgid "Paperless-ngx reset password request"
-msgstr "Solicitud para restablecer contraseña de Paperless-ngx"
+msgid "Lirion Docs reset password request"
+msgstr "Solicitud para restablecer contraseña de Lirion Docs"
 
 #: documents/templates/account/password_reset.html:9
 msgid "Enter your email address below, and we'll email instructions for setting a new one."
@@ -1774,8 +1774,8 @@ msgid "Send me instructions!"
 msgstr "¡Envíeme instrucciones!"
 
 #: documents/templates/account/password_reset_done.html:5
-msgid "Paperless-ngx reset password sent"
-msgstr "Contraseña de restablecimiento de Paperless-ngx enviada"
+msgid "Lirion Docs reset password sent"
+msgstr "Contraseña de restablecimiento de Lirion Docs enviada"
 
 #: documents/templates/account/password_reset_done.html:9
 msgid "Check your inbox."
@@ -1786,8 +1786,8 @@ msgid "We've emailed you instructions for setting your password. You should rece
 msgstr "Te hemos enviado instrucciones para configurar tu contraseña. ¡Deberías recibir el correo electrónico en breve!"
 
 #: documents/templates/account/password_reset_from_key.html:5
-msgid "Paperless-ngx reset password confirmation"
-msgstr "Confirmación de contraseña de restablecimiento de Paperless-ngx"
+msgid "Lirion Docs reset password confirmation"
+msgstr "Confirmación de contraseña de restablecimiento de Lirion Docs"
 
 #: documents/templates/account/password_reset_from_key.html:9
 msgid "Set a new password."
@@ -1810,8 +1810,8 @@ msgid "Change my password"
 msgstr "Cambiar mi contraseña"
 
 #: documents/templates/account/password_reset_from_key_done.html:5
-msgid "Paperless-ngx reset password complete"
-msgstr "Restablecimiento de contraseña de Paperless-ngx completado"
+msgid "Lirion Docs reset password complete"
+msgstr "Restablecimiento de contraseña de Lirion Docs completado"
 
 #: documents/templates/account/password_reset_from_key_done.html:9
 msgid "Password reset complete."
@@ -1826,8 +1826,8 @@ msgid "log in"
 msgstr "Iniciar sesión"
 
 #: documents/templates/account/signup.html:5
-msgid "Paperless-ngx sign up"
-msgstr "Paperless-ngx inicio de sesión"
+msgid "Lirion Docs sign up"
+msgstr "Lirion Docs inicio de sesión"
 
 #: documents/templates/account/signup.html:11
 msgid "Already have an account?"
@@ -1847,8 +1847,8 @@ msgid "Password (again)"
 msgstr "Contraseña (otra vez)"
 
 #: documents/templates/index.html:61
-msgid "Paperless-ngx is loading..."
-msgstr "Paperless-ngx está cargando..."
+msgid "Lirion Docs is loading..."
+msgstr "Lirion Docs está cargando..."
 
 #: documents/templates/index.html:62
 msgid "Still here?! Hmm, something might be wrong."
@@ -1859,8 +1859,8 @@ msgid "Here's a link to the docs."
 msgstr "Aquí hay un enlace a la documentación."
 
 #: documents/templates/mfa/authenticate.html:7
-msgid "Paperless-ngx Two-Factor Authentication"
-msgstr "Autenticación de dos factores Paperless-ngx"
+msgid "Lirion Docs Two-Factor Authentication"
+msgstr "Autenticación de dos factores Lirion Docs"
 
 #: documents/templates/mfa/authenticate.html:12
 msgid "Your account is protected by two-factor authentication. Please enter an authenticator code:"
@@ -1884,8 +1884,8 @@ msgstr "El enlace ha expirado."
 
 #: documents/templates/socialaccount/authentication_error.html:5
 #: documents/templates/socialaccount/login.html:5
-msgid "Paperless-ngx social account sign in"
-msgstr "Acceso a Paperless-ngx con cuenta social"
+msgid "Lirion Docs social account sign in"
+msgstr "Acceso a Lirion Docs con cuenta social"
 
 #: documents/templates/socialaccount/authentication_error.html:10
 msgid "An error occurred while attempting to login via your social network account. Back to the"
@@ -1905,8 +1905,8 @@ msgid "Continue"
 msgstr "Continuar"
 
 #: documents/templates/socialaccount/signup.html:5
-msgid "Paperless-ngx social account sign up"
-msgstr "Acceso a Paperless-ngx con cuenta social"
+msgid "Lirion Docs social account sign up"
+msgstr "Acceso a Lirion Docs con cuenta social"
 
 #: documents/templates/socialaccount/signup.html:11
 #, python-format
@@ -1959,8 +1959,8 @@ msgid "The share link bundle is unavailable."
 msgstr "El paquete de enlace compartido no está disponible."
 
 #: paperless/apps.py:11
-msgid "Paperless"
-msgstr "Paperless"
+msgid "Lirion Docs"
+msgstr "Lirion Docs"
 
 #: paperless/models.py:26
 msgid "pdf"
@@ -2243,8 +2243,8 @@ msgid "Sets the LLM timeout in seconds"
 msgstr "Establece el tiempo de espera de LLM en segundos"
 
 #: paperless/models.py:443
-msgid "paperless application settings"
-msgstr "Ajustes de la aplicación paperless"
+msgid "Lirion Docs application settings"
+msgstr "Ajustes de la aplicación Lirion Docs"
 
 #: paperless/settings/__init__.py:566
 msgid "English (US)"
@@ -2395,8 +2395,8 @@ msgid "Chinese Traditional"
 msgstr "Chino tradicional"
 
 #: paperless/urls.py:438
-msgid "Paperless-ngx administration"
-msgstr "Administración de Paperless-ngx"
+msgid "Lirion Docs administration"
+msgstr "Administración de Lirion Docs"
 
 #: paperless_mail/admin.py:39
 msgid "Authentication"
@@ -2407,8 +2407,8 @@ msgid "Advanced settings"
 msgstr "Configuración avanzada"
 
 #: paperless_mail/admin.py:61
-msgid "Paperless will only process mails that match ALL of the filters given below."
-msgstr "Paperless solo procesará los correos que coincidan con TODOS los filtros escritos abajo."
+msgid "Lirion Docs will only process mails that match ALL of the filters given below."
+msgstr "Lirion Docs solo procesará los correos que coincidan con TODOS los filtros escritos abajo."
 
 #: paperless_mail/admin.py:78
 msgid "Actions"
@@ -2423,12 +2423,12 @@ msgid "Metadata"
 msgstr "Metadatos"
 
 #: paperless_mail/admin.py:92
-msgid "Assign metadata to documents consumed from this rule automatically. If you do not assign tags, types or correspondents here, paperless will still process all matching rules that you have defined."
-msgstr "Asignar metadatos a documentos consumidos por esta regla automáticamente. Si no asigna etiquetas, tipos o interlocutores aquí, paperless procesará igualmente todas las reglas que haya definido."
+msgid "Assign metadata to documents consumed from this rule automatically. If you do not assign tags, types or correspondents here, Lirion Docs will still process all matching rules that you have defined."
+msgstr "Asignar metadatos a documentos consumidos por esta regla automáticamente. Si no asigna etiquetas, tipos o interlocutores aquí, Lirion Docs procesará igualmente todas las reglas que haya definido."
 
 #: paperless_mail/apps.py:8
-msgid "Paperless mail"
-msgstr "Correo Paperless"
+msgid "Lirion Docs mail"
+msgstr "Correo Lirion Docs"
 
 #: paperless_mail/models.py:10
 msgid "mail account"

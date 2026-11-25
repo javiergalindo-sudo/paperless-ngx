@@ -1687,7 +1687,7 @@ msgid "Documents not found: %(ids)s"
 msgstr "מסמכים לא נמצאו: %(ids)s"
 
 #: documents/templates/account/account_inactive.html:5
-msgid "Paperless-ngx account inactive"
+msgid "Lirion Docs account inactive"
 msgstr "חשבון פייפרלס לא פעיל"
 
 #: documents/templates/account/account_inactive.html:9
@@ -1715,8 +1715,8 @@ msgstr "תודה שהשתמשת %(site_name)s!\n"
 "%(site_domain)s"
 
 #: documents/templates/account/login.html:5
-msgid "Paperless-ngx sign in"
-msgstr "התחברות Paperless-ngx"
+msgid "Lirion Docs sign in"
+msgstr "התחברות Lirion Docs"
 
 #: documents/templates/account/login.html:10
 msgid "Please sign in."
@@ -1759,7 +1759,7 @@ msgid "or sign in via"
 msgstr "או התחבר דרך"
 
 #: documents/templates/account/password_reset.html:5
-msgid "Paperless-ngx reset password request"
+msgid "Lirion Docs reset password request"
 msgstr "בקשה לאיפוס סיסמה"
 
 #: documents/templates/account/password_reset.html:9
@@ -1775,7 +1775,7 @@ msgid "Send me instructions!"
 msgstr "שלח לי את ההוראות!"
 
 #: documents/templates/account/password_reset_done.html:5
-msgid "Paperless-ngx reset password sent"
+msgid "Lirion Docs reset password sent"
 msgstr "סיסמא לאיפוס נשלחה"
 
 #: documents/templates/account/password_reset_done.html:9
@@ -1787,7 +1787,7 @@ msgid "We've emailed you instructions for setting your password. You should rece
 msgstr "נשלח מייל עם הוראות להגדרת הסיסמה שלך. אתה צריך לקבל מייל בקרוב!"
 
 #: documents/templates/account/password_reset_from_key.html:5
-msgid "Paperless-ngx reset password confirmation"
+msgid "Lirion Docs reset password confirmation"
 msgstr "אשור תהליך איפוס הסיסמה"
 
 #: documents/templates/account/password_reset_from_key.html:9
@@ -1811,7 +1811,7 @@ msgid "Change my password"
 msgstr "שנה את הסיסמא שלי"
 
 #: documents/templates/account/password_reset_from_key_done.html:5
-msgid "Paperless-ngx reset password complete"
+msgid "Lirion Docs reset password complete"
 msgstr "תהליך איפוס הסיסמה הסתיים"
 
 #: documents/templates/account/password_reset_from_key_done.html:9
@@ -1827,7 +1827,7 @@ msgid "log in"
 msgstr "התחבר"
 
 #: documents/templates/account/signup.html:5
-msgid "Paperless-ngx sign up"
+msgid "Lirion Docs sign up"
 msgstr "PaperLess הרשמה ל"
 
 #: documents/templates/account/signup.html:11
@@ -1848,8 +1848,8 @@ msgid "Password (again)"
 msgstr "סיסמה (שוב)"
 
 #: documents/templates/index.html:61
-msgid "Paperless-ngx is loading..."
-msgstr "Paperless-ngx נטען..."
+msgid "Lirion Docs is loading..."
+msgstr "Lirion Docs נטען..."
 
 #: documents/templates/index.html:62
 msgid "Still here?! Hmm, something might be wrong."
@@ -1860,7 +1860,7 @@ msgid "Here's a link to the docs."
 msgstr "הנה קישור למסמכים."
 
 #: documents/templates/mfa/authenticate.html:7
-msgid "Paperless-ngx Two-Factor Authentication"
+msgid "Lirion Docs Two-Factor Authentication"
 msgstr "PapwrLess אימות דו-שלבי של"
 
 #: documents/templates/mfa/authenticate.html:12
@@ -1885,7 +1885,7 @@ msgstr "לינק לקישור הקובץ פג תוקף"
 
 #: documents/templates/socialaccount/authentication_error.html:5
 #: documents/templates/socialaccount/login.html:5
-msgid "Paperless-ngx social account sign in"
+msgid "Lirion Docs social account sign in"
 msgstr "PaperLess התחברות באמצעות חשבון חברתי ל"
 
 #: documents/templates/socialaccount/authentication_error.html:10
@@ -1906,7 +1906,7 @@ msgid "Continue"
 msgstr "המשך"
 
 #: documents/templates/socialaccount/signup.html:5
-msgid "Paperless-ngx social account sign up"
+msgid "Lirion Docs social account sign up"
 msgstr "הרשם לחשבון חברתי לפייפר-לס"
 
 #: documents/templates/socialaccount/signup.html:11
@@ -2396,8 +2396,8 @@ msgid "Chinese Traditional"
 msgstr "סינית מסורתית"
 
 #: paperless/urls.py:438
-msgid "Paperless-ngx administration"
-msgstr "ניהול Paperless-ngx"
+msgid "Lirion Docs administration"
+msgstr "ניהול Lirion Docs"
 
 #: paperless_mail/admin.py:39
 msgid "Authentication"

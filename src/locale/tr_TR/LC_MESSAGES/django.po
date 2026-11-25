@@ -1686,8 +1686,8 @@ msgid "Documents not found: %(ids)s"
 msgstr "Dosyalar bulunamadı: %(ids)s"
 
 #: documents/templates/account/account_inactive.html:5
-msgid "Paperless-ngx account inactive"
-msgstr "Paperless-ngx hesabı pasif"
+msgid "Lirion Docs account inactive"
+msgstr "Lirion Docs hesabı pasif"
 
 #: documents/templates/account/account_inactive.html:9
 msgid "Account inactive."
@@ -1714,8 +1714,8 @@ msgstr "%(site_name)s'i kullandığınız için teşekkürler!\n"
 "%(site_domain)s"
 
 #: documents/templates/account/login.html:5
-msgid "Paperless-ngx sign in"
-msgstr "Paperless-ngx oturumunu açin"
+msgid "Lirion Docs sign in"
+msgstr "Lirion Docs oturumunu açin"
 
 #: documents/templates/account/login.html:10
 msgid "Please sign in."
@@ -1758,8 +1758,8 @@ msgid "or sign in via"
 msgstr "veya giriş yap"
 
 #: documents/templates/account/password_reset.html:5
-msgid "Paperless-ngx reset password request"
-msgstr "Paperless-ngx parola sıfırlama isteği"
+msgid "Lirion Docs reset password request"
+msgstr "Lirion Docs parola sıfırlama isteği"
 
 #: documents/templates/account/password_reset.html:9
 msgid "Enter your email address below, and we'll email instructions for setting a new one."
@@ -1774,8 +1774,8 @@ msgid "Send me instructions!"
 msgstr "Yönergeler gönder!"
 
 #: documents/templates/account/password_reset_done.html:5
-msgid "Paperless-ngx reset password sent"
-msgstr "Paperless-ngx sıfırlama şifresi gönderildi"
+msgid "Lirion Docs reset password sent"
+msgstr "Lirion Docs sıfırlama şifresi gönderildi"
 
 #: documents/templates/account/password_reset_done.html:9
 msgid "Check your inbox."
@@ -1786,8 +1786,8 @@ msgid "We've emailed you instructions for setting your password. You should rece
 msgstr "Şifrenizi ayarlamak için gerekli talimatları size e-posta ile gönderdik. E-posta kısa süre içinde elinize ulaşacaktır!"
 
 #: documents/templates/account/password_reset_from_key.html:5
-msgid "Paperless-ngx reset password confirmation"
-msgstr "Paperless-ngx şifre sıfırlama onayı"
+msgid "Lirion Docs reset password confirmation"
+msgstr "Lirion Docs şifre sıfırlama onayı"
 
 #: documents/templates/account/password_reset_from_key.html:9
 msgid "Set a new password."
@@ -1810,8 +1810,8 @@ msgid "Change my password"
 msgstr "Parolamı değiştir"
 
 #: documents/templates/account/password_reset_from_key_done.html:5
-msgid "Paperless-ngx reset password complete"
-msgstr "Paperless-ngx şifre sıfırlama işlemi tamamlandı"
+msgid "Lirion Docs reset password complete"
+msgstr "Lirion Docs şifre sıfırlama işlemi tamamlandı"
 
 #: documents/templates/account/password_reset_from_key_done.html:9
 msgid "Password reset complete."
@@ -1826,8 +1826,8 @@ msgid "log in"
 msgstr "giriş yapabilirsiniz"
 
 #: documents/templates/account/signup.html:5
-msgid "Paperless-ngx sign up"
-msgstr "Paperless-ngx kaydolun"
+msgid "Lirion Docs sign up"
+msgstr "Lirion Docs kaydolun"
 
 #: documents/templates/account/signup.html:11
 msgid "Already have an account?"
@@ -1847,8 +1847,8 @@ msgid "Password (again)"
 msgstr "Şifre (tekrar)"
 
 #: documents/templates/index.html:61
-msgid "Paperless-ngx is loading..."
-msgstr "Paperless-ngx yükleniyor..."
+msgid "Lirion Docs is loading..."
+msgstr "Lirion Docs yükleniyor..."
 
 #: documents/templates/index.html:62
 msgid "Still here?! Hmm, something might be wrong."
@@ -1859,8 +1859,8 @@ msgid "Here's a link to the docs."
 msgstr "İşte belgelerin bağlantısı."
 
 #: documents/templates/mfa/authenticate.html:7
-msgid "Paperless-ngx Two-Factor Authentication"
-msgstr "Paperless-ngx İki Aşamalı Doğrulama"
+msgid "Lirion Docs Two-Factor Authentication"
+msgstr "Lirion Docs İki Aşamalı Doğrulama"
 
 #: documents/templates/mfa/authenticate.html:12
 msgid "Your account is protected by two-factor authentication. Please enter an authenticator code:"
@@ -1884,8 +1884,8 @@ msgstr "Bağlantının kullanım süresi doldu."
 
 #: documents/templates/socialaccount/authentication_error.html:5
 #: documents/templates/socialaccount/login.html:5
-msgid "Paperless-ngx social account sign in"
-msgstr "Paperless-ngx sosyal hesap giriş"
+msgid "Lirion Docs social account sign in"
+msgstr "Lirion Docs sosyal hesap giriş"
 
 #: documents/templates/socialaccount/authentication_error.html:10
 msgid "An error occurred while attempting to login via your social network account. Back to the"
@@ -1905,8 +1905,8 @@ msgid "Continue"
 msgstr "Devam et"
 
 #: documents/templates/socialaccount/signup.html:5
-msgid "Paperless-ngx social account sign up"
-msgstr "Paperless-ngx sosyal hesap kaydı"
+msgid "Lirion Docs social account sign up"
+msgstr "Lirion Docs sosyal hesap kaydı"
 
 #: documents/templates/socialaccount/signup.html:11
 #, python-format
@@ -2395,8 +2395,8 @@ msgid "Chinese Traditional"
 msgstr "Geleneksel Çince"
 
 #: paperless/urls.py:438
-msgid "Paperless-ngx administration"
-msgstr "Paperless-ngx yönetimi"
+msgid "Lirion Docs administration"
+msgstr "Lirion Docs yönetimi"
 
 #: paperless_mail/admin.py:39
 msgid "Authentication"

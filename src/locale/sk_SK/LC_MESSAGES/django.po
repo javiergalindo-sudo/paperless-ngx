@@ -1686,8 +1686,8 @@ msgid "Documents not found: %(ids)s"
 msgstr "Dokumenty sa nenašli: %(ids)s"
 
 #: documents/templates/account/account_inactive.html:5
-msgid "Paperless-ngx account inactive"
-msgstr "Účet Paperless-ngx nie je aktívny"
+msgid "Lirion Docs account inactive"
+msgstr "Účet Lirion Docs nie je aktívny"
 
 #: documents/templates/account/account_inactive.html:9
 msgid "Account inactive."
@@ -1714,8 +1714,8 @@ msgstr "Ďakujeme, že používate %(site_name)s!\n"
 "%(site_domain)s"
 
 #: documents/templates/account/login.html:5
-msgid "Paperless-ngx sign in"
-msgstr "Prihlásiť Paperless-ngx"
+msgid "Lirion Docs sign in"
+msgstr "Prihlásiť Lirion Docs"
 
 #: documents/templates/account/login.html:10
 msgid "Please sign in."
@@ -1758,8 +1758,8 @@ msgid "or sign in via"
 msgstr "alebo sa prihláste pomocou"
 
 #: documents/templates/account/password_reset.html:5
-msgid "Paperless-ngx reset password request"
-msgstr "Žiadosť o obnovu hesla v Paperless-ngx"
+msgid "Lirion Docs reset password request"
+msgstr "Žiadosť o obnovu hesla v Lirion Docs"
 
 #: documents/templates/account/password_reset.html:9
 msgid "Enter your email address below, and we'll email instructions for setting a new one."
@@ -1774,8 +1774,8 @@ msgid "Send me instructions!"
 msgstr "Pošlite mi pokyny!"
 
 #: documents/templates/account/password_reset_done.html:5
-msgid "Paperless-ngx reset password sent"
-msgstr "Žiadosť o obnovu hesla do Paperless-ngx bola odoslaná"
+msgid "Lirion Docs reset password sent"
+msgstr "Žiadosť o obnovu hesla do Lirion Docs bola odoslaná"
 
 #: documents/templates/account/password_reset_done.html:9
 msgid "Check your inbox."
@@ -1786,8 +1786,8 @@ msgid "We've emailed you instructions for setting your password. You should rece
 msgstr "Postup na nastavenie hesla sme vám zaslali e-mailom. Mali by ste ho dostať už o chvíľku!"
 
 #: documents/templates/account/password_reset_from_key.html:5
-msgid "Paperless-ngx reset password confirmation"
-msgstr "Potvrdenie obnovenia hesla do Paperless-ngx"
+msgid "Lirion Docs reset password confirmation"
+msgstr "Potvrdenie obnovenia hesla do Lirion Docs"
 
 #: documents/templates/account/password_reset_from_key.html:9
 msgid "Set a new password."
@@ -1810,8 +1810,8 @@ msgid "Change my password"
 msgstr "Zmeniť moje heslo"
 
 #: documents/templates/account/password_reset_from_key_done.html:5
-msgid "Paperless-ngx reset password complete"
-msgstr "Obnovenie hesla do Paperless-ngx bolo dokončené"
+msgid "Lirion Docs reset password complete"
+msgstr "Obnovenie hesla do Lirion Docs bolo dokončené"
 
 #: documents/templates/account/password_reset_from_key_done.html:9
 msgid "Password reset complete."
@@ -1826,8 +1826,8 @@ msgid "log in"
 msgstr "prihlásiť"
 
 #: documents/templates/account/signup.html:5
-msgid "Paperless-ngx sign up"
-msgstr "Registrácia do Paperless-ngx"
+msgid "Lirion Docs sign up"
+msgstr "Registrácia do Lirion Docs"
 
 #: documents/templates/account/signup.html:11
 msgid "Already have an account?"
@@ -1847,8 +1847,8 @@ msgid "Password (again)"
 msgstr "Heslo (znovu)"
 
 #: documents/templates/index.html:61
-msgid "Paperless-ngx is loading..."
-msgstr "Paperless-ngx sa načítava..."
+msgid "Lirion Docs is loading..."
+msgstr "Lirion Docs sa načítava..."
 
 #: documents/templates/index.html:62
 msgid "Still here?! Hmm, something might be wrong."
@@ -1859,8 +1859,8 @@ msgid "Here's a link to the docs."
 msgstr "Tu je odkaz na dokumentáciu."
 
 #: documents/templates/mfa/authenticate.html:7
-msgid "Paperless-ngx Two-Factor Authentication"
-msgstr "Dvojfaktorové overovanie v Paperless-ngx"
+msgid "Lirion Docs Two-Factor Authentication"
+msgstr "Dvojfaktorové overovanie v Lirion Docs"
 
 #: documents/templates/mfa/authenticate.html:12
 msgid "Your account is protected by two-factor authentication. Please enter an authenticator code:"
@@ -1884,8 +1884,8 @@ msgstr "Odkaz na zdielanie vypršal."
 
 #: documents/templates/socialaccount/authentication_error.html:5
 #: documents/templates/socialaccount/login.html:5
-msgid "Paperless-ngx social account sign in"
-msgstr "Prihlásenie do Paperless-ngx pomocou účtu na sociálnej sieti"
+msgid "Lirion Docs social account sign in"
+msgstr "Prihlásenie do Lirion Docs pomocou účtu na sociálnej sieti"
 
 #: documents/templates/socialaccount/authentication_error.html:10
 msgid "An error occurred while attempting to login via your social network account. Back to the"
@@ -1905,8 +1905,8 @@ msgid "Continue"
 msgstr "Pokračovať"
 
 #: documents/templates/socialaccount/signup.html:5
-msgid "Paperless-ngx social account sign up"
-msgstr "Registrácia do Paperless-ngx pomocou účtu na sociálnej sieti"
+msgid "Lirion Docs social account sign up"
+msgstr "Registrácia do Lirion Docs pomocou účtu na sociálnej sieti"
 
 #: documents/templates/socialaccount/signup.html:11
 #, python-format
@@ -2395,8 +2395,8 @@ msgid "Chinese Traditional"
 msgstr "Čínština (tradičná)"
 
 #: paperless/urls.py:438
-msgid "Paperless-ngx administration"
-msgstr "Administrácia Paperless-ngx"
+msgid "Lirion Docs administration"
+msgstr "Administrácia Lirion Docs"
 
 #: paperless_mail/admin.py:39
 msgid "Authentication"

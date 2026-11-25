@@ -1686,7 +1686,7 @@ msgid "Documents not found: %(ids)s"
 msgstr ""
 
 #: documents/templates/account/account_inactive.html:5
-msgid "Paperless-ngx account inactive"
+msgid "Lirion Docs account inactive"
 msgstr "حساب بدون کاغذ ngx غیرفعال است"
 
 #: documents/templates/account/account_inactive.html:9
@@ -1713,7 +1713,7 @@ msgid "Thank you for using %(site_name)s!\n"
 msgstr ""
 
 #: documents/templates/account/login.html:5
-msgid "Paperless-ngx sign in"
+msgid "Lirion Docs sign in"
 msgstr "ثبت نام NGX بدون کاغذ"
 
 #: documents/templates/account/login.html:10
@@ -1757,7 +1757,7 @@ msgid "or sign in via"
 msgstr "یا وارد سیستم شوید"
 
 #: documents/templates/account/password_reset.html:5
-msgid "Paperless-ngx reset password request"
+msgid "Lirion Docs reset password request"
 msgstr "درخواست رمز عبور بدون تنظیم مجدد Paperless"
 
 #: documents/templates/account/password_reset.html:9
@@ -1773,8 +1773,8 @@ msgid "Send me instructions!"
 msgstr "برای من دستورالعمل ارسال کنید!"
 
 #: documents/templates/account/password_reset_done.html:5
-msgid "Paperless-ngx reset password sent"
-msgstr "Paperless-NGX بازنشانی رمز عبور ارسال شده"
+msgid "Lirion Docs reset password sent"
+msgstr "Lirion Docs بازنشانی رمز عبور ارسال شده"
 
 #: documents/templates/account/password_reset_done.html:9
 msgid "Check your inbox."
@@ -1785,7 +1785,7 @@ msgid "We've emailed you instructions for setting your password. You should rece
 msgstr "ما برای تنظیم رمز عبور خود به شما دستورالعمل ارسال کرده ایم. شما باید به زودی ایمیل را دریافت کنید!"
 
 #: documents/templates/account/password_reset_from_key.html:5
-msgid "Paperless-ngx reset password confirmation"
+msgid "Lirion Docs reset password confirmation"
 msgstr "تأیید رمز عبور NGX بدون تنظیم مجدد"
 
 #: documents/templates/account/password_reset_from_key.html:9
@@ -1809,7 +1809,7 @@ msgid "Change my password"
 msgstr "رمز ورود من را تغییر دهید"
 
 #: documents/templates/account/password_reset_from_key_done.html:5
-msgid "Paperless-ngx reset password complete"
+msgid "Lirion Docs reset password complete"
 msgstr "Paperless بدون تنظیم رمز عبور کامل"
 
 #: documents/templates/account/password_reset_from_key_done.html:9
@@ -1825,8 +1825,8 @@ msgid "log in"
 msgstr ""
 
 #: documents/templates/account/signup.html:5
-msgid "Paperless-ngx sign up"
-msgstr "Paperless-NGX ثبت نام کنید"
+msgid "Lirion Docs sign up"
+msgstr "Lirion Docs ثبت نام کنید"
 
 #: documents/templates/account/signup.html:11
 msgid "Already have an account?"
@@ -1846,8 +1846,8 @@ msgid "Password (again)"
 msgstr "رمز عبور (دوباره)"
 
 #: documents/templates/index.html:61
-msgid "Paperless-ngx is loading..."
-msgstr "Paperless-NGX در حال بارگیری است ..."
+msgid "Lirion Docs is loading..."
+msgstr "Lirion Docs در حال بارگیری است ..."
 
 #: documents/templates/index.html:62
 msgid "Still here?! Hmm, something might be wrong."
@@ -1858,7 +1858,7 @@ msgid "Here's a link to the docs."
 msgstr "در اینجا پیوندی به اسناد وجود دارد."
 
 #: documents/templates/mfa/authenticate.html:7
-msgid "Paperless-ngx Two-Factor Authentication"
+msgid "Lirion Docs Two-Factor Authentication"
 msgstr "احراز هویت دو عاملی بدون کاغذ"
 
 #: documents/templates/mfa/authenticate.html:12
@@ -1883,7 +1883,7 @@ msgstr "اشتراک اشتراک منقضی شده است."
 
 #: documents/templates/socialaccount/authentication_error.html:5
 #: documents/templates/socialaccount/login.html:5
-msgid "Paperless-ngx social account sign in"
+msgid "Lirion Docs social account sign in"
 msgstr "ورود به سیستم حساب اجتماعی بدون Paperless NGX"
 
 #: documents/templates/socialaccount/authentication_error.html:10
@@ -1904,7 +1904,7 @@ msgid "Continue"
 msgstr "ادامه دادن"
 
 #: documents/templates/socialaccount/signup.html:5
-msgid "Paperless-ngx social account sign up"
+msgid "Lirion Docs social account sign up"
 msgstr "حساب اجتماعی بدون مقاله NGX ثبت نام کنید"
 
 #: documents/templates/socialaccount/signup.html:11
@@ -2394,7 +2394,7 @@ msgid "Chinese Traditional"
 msgstr "چینی سنتی"
 
 #: paperless/urls.py:438
-msgid "Paperless-ngx administration"
+msgid "Lirion Docs administration"
 msgstr "مدیریت بدون مقاله NGX"
 
 #: paperless_mail/admin.py:39
